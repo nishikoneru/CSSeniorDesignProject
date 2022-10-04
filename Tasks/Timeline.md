@@ -1,4 +1,4 @@
-| Task # | Task                   | Start Date | End Date | Primary Team Member | 
+| Task # | Task                   | Start Date | End Date | Primary Team Member(s) | 
 | ------ | ---------------------- | ---------- | -------- | ------------------- |
 | 1      | Research | 10/15/22 | 1/9/23 | All |
 | 1.1    | Research VR sickness and its effects on individuals | 10/15/22 | 11/12/22 | Rachel |
