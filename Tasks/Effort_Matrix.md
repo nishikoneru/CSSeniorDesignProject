@@ -9,7 +9,7 @@
 | 1.6    | Research DALL-E and other similar AI art-generating programs | 20% | 20% | 60% |
 | 1.7    | Research libraries that can be used in the program | 0% | 0% | 100% |
 | 1.8    | Research AI/ML algorithms and techniques needed for the program | 25% | 25% | 50% |
-| 1.9    | Obtain general VR info from Jillian | 33% | 33% | 33% |
+| 1.9    | Obtain general VR info from Asst Prof Jillian Aurisano | 33% | 33% | 33% |
 | 2      | Creation of the Gallery | 10% | 90% | 0% |
 | 2.1    | Design the layout of the VR museum | 10% | 90% | 0% |
 | 2.2    | Develop the logic for hands/pointer/the means for users to interact with environment | 10% | 90% | 0% |
