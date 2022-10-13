@@ -10,7 +10,7 @@
     - Research Unity’s VR packages 
     - Design the layout of the VR museum
     - Develop the logic for hands/pointer/the means for users to interact with environment
-    - Obtain general VR info from Jillian (https://researchdirectory.uc.edu/p/aurisajm)
+    - Obtain general VR info from Asst Prof Jillian Aurisano (https://researchdirectory.uc.edu/p/aurisajm)
     - Investigate copyright issues with AI generated imagery
 
 # Nishidha’s tasks:
