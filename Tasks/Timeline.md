@@ -9,7 +9,7 @@
 | 1.6    | Research DALL-E and other similar AI art-generating programs | 10/15/22 | 11/5/22 | Nishidha |
 | 1.7    | Research libraries that can be used in the program | 11/5/22 | 11/26/22 | Nishidha |
 | 1.8    | Research AI/ML algorithms and techniques needed for the program | 11/26/22 | 12/17/22 | Nishidha |
-| 1.9    | Obtain general VR info from Jillian | 10/15/22 | 11/7/22| Scott |
+| 1.9    | Obtain general VR info from Asst Prof Jillian Aurisano | 10/15/22 | 11/7/22| Scott |
 | 2      | Creation of the Gallery | 1/9/23 | 4/1/23 | Scott, Rachel |
 | 2.1    | Design the layout of the VR museum | 1/9/23 | 1/25/23 | Scott |
 | 2.2    | Develop the logic for hands/pointer/the means for users to interact with environment | 1/9/23 | 4/1/23 | Scott |
