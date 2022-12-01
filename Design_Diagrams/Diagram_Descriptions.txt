@@ -1,0 +1,17 @@
+Description of the Diagrams: including conventions and a brief description of the purpose of each component.
+For all diagrams, the stick figure represents the user and the code's actions follow the arrow directions.
+
+Diagram 0:
+	The user starts by inputing a prompt, the art is then generated using AI
+	and finally the art is displayed in the museum for the user.
+Diagram 1: 
+	The user picks a theme from a list to be used for generating picture. The input is then passed to the AI
+	code before the AI generates images with the theme in mind. Unity then displays these images and the User can walk
+	around the gallery to view them. They can then return to the start and create new images if they choose or end the program.
+Diagram 2:
+	The input list of themes is displayed from a dropdown so that the user can pick a prompt from the list. The
+	input is recorded by Unity and then sent to python code as an input. The AI chooses a generating technique that
+	best fits the input and trains before creating output images. These images are then displayed by unity within the
+	virtual museum and the user is able to walk around the gallery and view images as they please. If they wish, they
+	can return to the start to create new images for the gallery or end the program.
+	
