@@ -1,5 +1,4 @@
-### Appendix:
-include appropriate references, citations, links to code repositories
+### Appendix
 
 09/01/22, 3:20 - 5:20
 Met as a group for the first time to discuss project ideas. Decided on VR AI Art Gallery and team name
