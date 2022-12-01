@@ -1,7 +1,7 @@
-Appendix:
+###Appendix:
 include appropriate references, citations, links to code repositories
 
-09/01/22, 3:20- 5:20
+09/01/22, 3:20 - 5:20
 Met as a group for the first time to discuss project ideas. Decided on VR AI Art Gallery and team name
 Also set up initial repository.
 
@@ -85,16 +85,19 @@ Rachel extra: 0:30
 11/17/22 3:30-4:00, 4:00-4:30
 We met quickly to go over student feedback and make small changes to our slidedeck.
 Nishi also started work on finalizing the github and setting up the Readme directory
+
 Total time: 20:30
 Nishi exta: 0:30
 
 11/22/22 4:00-4:30
 Met with John Gallagher to go over the presentation recording.
+
 Total time: 21:00
 
 11/29/22, 4:00-4:30
 Met with John Gallagher again to hand over the Advisor Assessment and report our
 plans for over the winter break
+
 Total time: 21:30
 
 12/1/22, 3:30 - 5:30
@@ -102,9 +105,8 @@ Met with the group to finalize the github.
 
 Total time: 23:30
 
-Total time on meetings: 21:30
+Total time outside of meetings spent on assignments and research: Around 30 hours
 
-Total time outside of meetings spent on assingments and research: Around 30 hours
+Total time spent on project: 53:30
 
 Link to Research Document: https://docs.google.com/document/d/1HNeeFhqVj6OLSDHgNI5mDQixiGRqYHuz4y0R1Znqbyk/edit?usp=sharing
-
