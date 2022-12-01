@@ -79,14 +79,14 @@ Total time: 19:00
 Total time: 20:00
 Rachel extra: 0:30
 
-11/17/22 3:30 - 4:00, 4:00 - 4:30
+11/17/22, 3:30 - 4:00, 4:00 - 4:30
 * We met quickly to go over student feedback and make small changes to our slidedeck.
 * Nishi also started work on finalizing the github and setting up the Readme directory
 
 Total time: 20:30
 Nishi exta: 0:30
 
-11/22/22 4:00 - 4:30
+11/22/22, 4:00 - 4:30
 * Met with John Gallagher to go over the presentation recording.
 
 Total time: 21:00
