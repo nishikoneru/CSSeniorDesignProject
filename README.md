@@ -36,3 +36,4 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
 9. Budget
     We have not had any expenses for the project so far.
 10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.txt)
+11. [User Guide and User Manual](https://rachellindquist.github.io/SeniorProjectSite/)
