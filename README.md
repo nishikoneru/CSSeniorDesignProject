@@ -38,3 +38,4 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
 10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.txt)
 11. [User Guide and User Manual](https://rachellindquist.github.io/SeniorProjectSite/)
 12. [Final Presentation](https://docs.google.com/presentation/d/1GLXVkNB_5Y-F0xSd1FsgTu_roSeJwO51cLJluHX0Mg8/edit#slide=id.g2081f539ddb_0_26)
+13. [Expo Poster](https://docs.google.com/presentation/d/1QdIqjGawwyeiLs96avOUPrtrH1TvMftNqBdikZazPbI/edit#slide=id.p)
