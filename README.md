@@ -31,7 +31,7 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
   * [Fall](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
   * [Spring]()
 8. Summary of Hours:
-  * [Rachel]()
+  * [Rachel](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/RachelHours.txt)
   * [Nishi]()
   * [Scott]()
 9. Summary of Expenses:
