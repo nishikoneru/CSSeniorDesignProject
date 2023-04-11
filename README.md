@@ -23,10 +23,10 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
   * Description of the Diagrams
     * [Descriptions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Descriptions.txt)
     * [Conventions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Conventions.md)
-3. 
+3. [Test Plan and Results]()
 4. [User Manual](https://rachellindquist.github.io/SeniorProjectSite/)
-5. [Spring Final PPT Presentation]()
-6. [Final Expo Poster]()
+5. [Spring Final PPT Presentation](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Senior%20Design%20Project%20Presentation%20Slides.pptx)
+6. [Final Expo Poster](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Expo%20Poster.pdf)
 7. Self-Assessment Essays:
   * [Fall](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
   * [Spring]()
@@ -35,5 +35,6 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
   * [Nishi]()
   * [Scott]()
 9. Summary of Expenses:
-    We have not had any expenses for the project so far.
-10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.txt)
+  * Oculus Meta Quest 2, provided by Scott Hunt
+  * Oculus Meta Quest 1, provided by Rachel Lindquist
+11. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.md)
