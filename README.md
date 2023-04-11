@@ -37,4 +37,4 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
 9. Summary of Expenses:
   * Oculus Meta Quest 2, provided by Scott Hunt
   * Oculus Meta Quest 1, provided by Rachel Lindquist
-11. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.md)
+10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.md)
