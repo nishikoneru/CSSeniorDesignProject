@@ -38,4 +38,4 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
   * Oculus Meta Quest 2, provided by Scott Hunt
   * Oculus Meta Quest 1, provided by Rachel Lindquist
 10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.md)
-11. [Link to project zip](https://mailuc-my.sharepoint.com/:v:/r/personal/lindqurm_mail_uc_edu/Documents/Project2Demo.mp4?csf=1&web=1&e=XAx6hv)
+11. [Link to project zip](https://mailuc-my.sharepoint.com/:u:/r/personal/lindqurm_mail_uc_edu/Documents/SeniorDesignfin.rar?csf=1&web=1&e=xZOkWD)
