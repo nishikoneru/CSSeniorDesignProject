@@ -23,10 +23,8 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
   * Description of the Diagrams
     * [Descriptions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Descriptions.txt)
     * [Conventions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Conventions.md)
-3. Project Tasks and Timeline
-  * [Task List](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Tasks/Tasklist.md)
-  * [Timeline](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Tasks/Timeline.md)
-  * [Effort Matrix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Tasks/Effort_Matrix.md)
+3. 
+4. [User Manual] (https://rachellindquist.github.io/SeniorProjectSite/)
 5. [PPT Slideshow](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Final%20Project%20Presentation.pptx)
 6. [Self-Assessment Essays](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
 7. Professional Biographies
