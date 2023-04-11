@@ -29,7 +29,8 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
 6. [Final Expo Poster](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Expo%20Poster.pdf)
 7. Self-Assessment Essays:
   * [Fall](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
-  * [Spring]()
+  * Spring
+       *[Rachel](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/RachelIndividualAssessment.pdf)
 8. Summary of Hours:
   * [Rachel](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/RachelHours.txt)
   * [Nishi](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/Nishi_Hours.md)
