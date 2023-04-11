@@ -1,0 +1,141 @@
+Rachel Individual Hours Spring Semester:
+12/30/22 4pm - 7pm:
+Time spent: 3 hours
+Total: 3 hours
+Worked on creating basic test python code (created image of random pixels)
+and getting it to run in C# (ran using the command prompt)
+1/7/22 6pm - 8pm:
+Time spent: 2 hours
+Total: 5 hours
+Looked into and worked on changing how C# runs, now uses a .exe that contains the python code
+Should be easier to package.
+1/13/22 5pm-7:30pm
+Time Spent: 2.5 hours
+total: 7.5 hours
+Looked into displaying images in unity from C# code (as opposed to using them as assets when
+building the game). Current plan is to have python write images to a folder and have C# display them
+around the museum.
+1/18/23 10:30pm - 11:30 pm
+Time spent: 1 hour
+Total: 8.5 hours
+Worked on creating a health and safety document focusing on the effects of VR.
+1/27/23 4:30pm -6:30pm
+Time spent: 2 hours
+Total: 10.5 hours
+Looked into more ways to run C# code that isn't directly from Windows (Such as command line or .exe)
+Since the Oculus headset we're using runs on Android. Couldn't get Iron python to work for more advanced
+libraries and couldn't just save python as a .apk file.
+2/1/23 4pm - 5:00 pm
+Time spent: 1 hour
+Total 11.5 hours
+Met with advisor alone to ask questions about integration.
+Then met with Scott and got my current integration code working in the test museum.
+2/16/23 12pm - 1pm
+Time spent: 1 hour
+Total 12.5 hours
+Met with William Hawkins at the suggestion of my advisor to discussing python and C# integration.
+He suggested pyjion which I will try sometime next week.
+2/17/23 9pm-10pm
+Time spent: 1 hour
+Total: 13.5 hours
+Researched Pyjion a bit, it seems what he's suggesting is possible, but it's going to take a lot of work.
+2/23/23 8pm - 10:30pm
+Time spent: 2.5 hours
+Total: 16 hours
+Looked more into pyjion. Could download it but wasn't able to access from the command line following
+their basic intructions on github. I also found a question from someone asking something similar to what we're
+trying to do (https://github.com/tonybaloney/Pyjion/discussions/303) and it seems there are no plans to add in integration 
+between C# and if the developers of pyjion are calling it too much work, I think it's probably not worth pursuing for this project. 
+Some more research and suggestions by pyjion led me to Python.NET and Python.Included, plan on testing them out tomorrow.
+2/24/23 8:30pm - 10:30 pm
+Time spent: 2 hours
+Total: 18 hours
+Python.Included won't work with unity, got an error just trying to load it in.
+Got Python.NET to work with numpy in unity, not our exact code, but a good step in the right direction.
+Noticed it only likes to use libraries that can be installed with pip, had some problems trying to use PIL (how I was originally saving the image)
+3/1/23 5pm - 8pm
+Time spent: 3 hours
+Total 21 hours
+Skimmed through python code provided by Nishi, since it requires downloads from github. It won't work 
+with Python.NET. She also said the github downloads can't be removed.
+Got it working with replicate though (https://replicate.com/dribnet/pixray-text2image/api)
+It requires a server but we do have ai generated images in python working, will test getting it to work with C# later.
+I also got it working with stable diffusion (https://replicate.com/stability-ai/stable-diffusion) using the same site.
+3/4/23 3pm-6pm
+Time spent: 3 hours
+Total: 24 hours
+Integrated the replicate python code with C#, we have ai generated bears in unity now.
+Also added in my code for displaying the image as well, so that we could actually view the bears in
+our gallery.
+3/4/23 9pm - 12am
+Time spent: 3 hours
+Total: 27 hours
+Tested and built on android, it crashed on startup. Had to look into how crash logs work with unity.
+Still not sure of the problem.
+Decided to try and test on my headset but I had to update my drivers among other things.
+Will try testing on the headset tomorrow.
+3/5/23 11am - 1pm
+Time spent: 2 hours
+Total: 29 hours
+Got the headset working, can test using the headset from unity. Tried to build from windows
+and the app crashed on startup again. Not sure what the problem is still though.
+3/5/23 6 pm - 10 pm
+Time spent: 4 hours
+Total: 33 hours
+Went back to testing, found out there is only a limited number of uses for replicate without
+spending money. Don't want to spend money. Found a version of stability AI that can be used through
+python pip installs that works on my computer. Only problem is generation requires CUDA, available on
+my computer but not available on Android or one of my teammates computer.
+Tested and works displaying 1 bear image now.
+3/6/23 3pm - 4:30 pm
+Time spent 1.5 hours
+Total: 34.5 hours
+Did some more testing before we planned on presenting our demo with our advisor Thursday
+3/6/23 6pm - 8 pm
+Time spent 2 hours
+Total: 36.5 hours
+Did more testing and got current code to display more than 1 image, previously just showed 1 image
+in the gallery, now it shows all 3 images in our test gallery.
+Also tested NSFW filter, library has one but sometimes stuff slips through.
+3/11/23 4pm - 4:30 pm
+Time spent 0.5 hours
+Total: 37 hours
+Made some sample images so the gallery didn't look so empty.
+3/19/23 10am - 3 pm
+Time spent: 5 hours
+Total: 42 hours
+Worked on getting images to generate in the background based on suggestiosn by our advisor.
+This involved threading in Unity and took a bit longer than I would have liked.
+We still have some small lag when the thread starts but it's a lot better
+than waiting 3 minutes to generate images before users can enter the gallery.
+3/23/23 1:30pm - 2:30 pm
+Time Spent: 1 hour
+Total: 43 hours
+Recorded demo of current code and edited our recorded presentation.
+Then stitched the two together
+4/3/23 6:00pm - 5:00 am
+Time Spent: 11 hours
+Total 54 hours
+Finally got finished museum, trying to get the generation code to work with it.
+Takes 10 minutes for unity to even launch and it crashes a lot. Still can't get
+code to work getting weird "Python not initialized" error. It's initialized
+before the python section is called though.
+4/4/23: 1 pm - 5 pm
+Time spent: 4 hours
+Total 58 hours
+Found the problem, there was leftover image generation from Scott's testing that
+we forgot to remove. Reduced loading time down to basically nothing and removed
+my python errors. Tested museum and added in small changes to prevent crashing
+due to user negligence
+4/5/23: 9:30 am - 10:30am
+Time spent: 1 hour
+Total: 59 hours
+Recorded demo video and voice over, edited two together for Senior Expo
+
+Total Individual: 59 hours
+Group meeting hours: 20 hours
+Total time spent, spring semester: 79 hours
+Total tim spent, fall semester: 50 hours, see appendix
+
+
+
