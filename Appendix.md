@@ -113,58 +113,72 @@ Link to Research Document: https://docs.google.com/document/d/1HNeeFhqVj6OLSDHgN
 * Met as a group to discuss work over winter break and schedule for upcoming meetings
 
 Total time: 1 hour
+
 1/24/23 3:30pm - 4:30 pm
 * Met to work on the test plan
 
 Total time: 2 hours
+
 1/25/23 4pm- 4:30pm
 * Met with advisor to discuss project progress over winter break
 
 Total time: 2.5 hours
+
 1/31/23 3:30pm - 4pm
 * Met over discord to discuss updates on our section on the project
 
 Total time: 3 hours
+
 2/1/23 4pm - 4:30pm
 * Met with advisor to discuss project
 
 Total time: 3.5 hours
+
 2/7/23 3:30pm - 4:30 pm
 * Met as a group to work on user docs
 
 Total time 4.5 hours
+
 2/15/23 4pm - 4:30 pm
 * Met with advisor to discuss project problems
 
 Total time: 5 hours
+
 2/15/23 4:30pm - 5:30 pm
 * Met as a group to work on project presentation
 
 Total time: 6 hours
+
 2/28/23 4:00pm - 6:00pm
 * Met as a group to make Expo poster and edit presentation
 
 Total time: 8 hours
+
 3/1/23 4pm - 4:30pm
 * Met with advisor to discuss project
 
 Total time: 8.5 hours
+
 3/7/23 3:30pm - 4:30 pm
 * Met to fix presentation and expo poster based off of advisor suggestions
 
 Total time: 9.5 hours
+
 3/9/23 10am - 10:30 am
 * Met with advisor to showcase current demo
 
 Total time: 10 hours
+
 3/21/23 4pm- 5pm
 * Met as a group to sign up for expo and finalize poster
 
 Total time: 11 hours
+
 4/5/23 4pm - 4:30pm
 Met with advisor for final prep before expo
 
 Total time: 11.5 hours
+
 4/6/23 8:30am - 5pm
 Expo
 
