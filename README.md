@@ -24,16 +24,16 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
     * [Descriptions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Descriptions.txt)
     * [Conventions](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Design_Diagrams/Diagram_Conventions.md)
 3. 
-4. [User Manual] (https://rachellindquist.github.io/SeniorProjectSite/)
-5. [PPT Slideshow](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Final%20Project%20Presentation.pptx)
-6. [Self-Assessment Essays](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
-7. Professional Biographies
-  * [Rachel](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Rachel_Bio.md)
-  * [Nishi](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Nishidha_Koneru_Bio.md)
-  * [Scott](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/ScottHunt_Bio.md)
-9. Budget
+4. [User Manual](https://rachellindquist.github.io/SeniorProjectSite/)
+5. [Spring Final PPT Presentation]()
+6. [Final Expo Poster]()
+7. Self-Assessment Essays:
+  * [Fall](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/HWEssays/Constraint_Essay.md)
+  * [Spring]()
+8. Summary of Hours:
+  * [Rachel]()
+  * [Nishi]()
+  * [Scott]()
+9. Summary of Expenses:
     We have not had any expenses for the project so far.
 10. [Appendix](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/Appendix.txt)
-11. [User Guide and User Manual](https://rachellindquist.github.io/SeniorProjectSite/)
-12. [Final Presentation](https://docs.google.com/presentation/d/1GLXVkNB_5Y-F0xSd1FsgTu_roSeJwO51cLJluHX0Mg8/edit#slide=id.g2081f539ddb_0_26)
-13. [Expo Poster](https://docs.google.com/presentation/d/1QdIqjGawwyeiLs96avOUPrtrH1TvMftNqBdikZazPbI/edit#slide=id.p)
