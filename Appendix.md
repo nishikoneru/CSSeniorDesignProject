@@ -175,12 +175,12 @@ Total time: 10 hours
 Total time: 11 hours
 
 4/5/23 4pm - 4:30pm
-Met with advisor for final prep before expo
+* Met with advisor for final prep before expo
 
 Total time: 11.5 hours
 
 4/6/23 8:30am - 5pm
-Expo
+* Expo
 
 Total time: 20 hours
 
