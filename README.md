@@ -34,7 +34,7 @@ Our project is a virtual reality (VR) application that we will run using a Oculu
 8. Summary of Hours:
   * [Rachel](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/RachelHours.txt)
   * [Nishi](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/Nishi_Hours.md)
-  * [Scott]()
+  * [Scott](https://github.com/nishikoneru/CSSeniorDesignProject/blob/main/hours/ScottHours.txt)
 9. Summary of Expenses:
   * Oculus Meta Quest 2, provided by Scott Hunt
   * Oculus Meta Quest 1, provided by Rachel Lindquist
