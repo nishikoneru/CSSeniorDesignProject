@@ -1,0 +1,46 @@
+Scott Individual Hours Spring Semester:
+- Organized Monthly -
+
+01/09/23 to 02/13/23
+
+-Started designing the museum, using placeholder objects that will be replaced for more detailed ones later on
+-Also looked into how to handle VR with Unity specifially (research, will worry about that a little later)
+Time spent: 21 hours
+
+02/13/23 to 03/06/23
+
+-Temporarily Added First Person Controller to test for scale of the current museum, also very good for other testing purposes
+-Using research gathered from previous entry, started to get the Oculus VR headset to behave with Unity
+	-modified project settings
+	-modified build settings
+-Implemented VR movement
+-Started slowly optimizing performance since the program is being developed on mid-end laptops
+-Started slowly adding textures / 3D models to museum (not as important as other things at the moment)
+-Added crude VR interaction with GUI to take in user input
+-Attempting to help with integration bewteen Python code and Unity Engine
+
+Time spent: 29 hours
+
+03/15/23 to 03/22/23
+
+-Overhauled the design of the museum
+	-Added realistic textures, 3D models
+	-Added background music (with shuffle logic)
+-Overhauled VR GUI interaction from GUI to a virtual 'physical' keyboard to type input, and bell to submit input
+-Still trying to help with integration bewteen Python code and Unity Engine
+	
+Time spent: 14 hours
+
+03/22/23 to 03/25/23
+
+-Deleted unused Unity Scenes, hi res textures, high poly count 3D models, etc. to help with performance
+-Created offline version of application for demo-ing purposes just in case bad/no wifi at the expo
+
+Time spent: 3 hours
+
+-----------------------------------------------------
+|	Indivudual time spent: 67 hours	
+|	Group meeting hours: 20 hours
+|	Total time spent, spring semester: 87 hours
+-----------------------------------------------------
+
